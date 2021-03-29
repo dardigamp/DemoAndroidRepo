@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemoAndroidRepo</string>
+    <string name="titulo">Demo Android Repo</string>
 </resources>
